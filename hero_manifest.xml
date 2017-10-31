@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="SaschaNes/android_kernel_samsung_tgpkernel-s7" path="kernel/samsung/universal8890" remote="github" revision="rr-N" />
+  <project name="evolve-hero2lte/android_vendor_samsung_hero-common" path="vendor/samsung/hero-common" remote="github" revision="darkness" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung/" remote="github" revision="cm-14.1" />
+  <project name="Fevax/android_hardware_samsung_slsi-cm_exynos8895" path="hardware/samsung_slsi-cm/exynos8895" remote="github" revision="cm-14.1" />
+  <project name="Fevax/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-14.1" />
+  <project name="Fevax/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-14.1" />
+  <project name="djb77/aarch64-cortex_a53-linux-gnueabi" path="prebuilts/gcc/linux-x86/aarch64/aarch64-cortex_a53-linux-gnueabi" remote="github" revision="gcc-7" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos8890" path="hardware/samsung_slsi-cm/exynos8890" remote="github" />
+</manifest>
